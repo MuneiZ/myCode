@@ -1,2 +1,2 @@
-# myCode
+# analogClock
 Learning Git
